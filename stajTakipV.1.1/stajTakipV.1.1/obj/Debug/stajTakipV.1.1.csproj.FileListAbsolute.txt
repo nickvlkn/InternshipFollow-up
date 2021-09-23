@@ -1,0 +1,28 @@
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\bin\Debug\stajTakipV.1.1.exe.config
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\bin\Debug\stajTakipV.1.1.exe
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\bin\Debug\stajTakipV.1.1.pdb
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.csprojAssemblyReference.cache
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV._1._1.Properties.Resources.resources
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.csproj.GenerateResource.cache
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.csproj.CoreCompileInputs.cache
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.exe
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.pdb
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.csproj.CopyComplete
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV._1._1.BasvuruFormu.resources
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV._1._1.StajyerGorevleri.resources
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.csproj.ResolveComReference.cache
+C:\Users\yildi\Desktop\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV._1._1.anasayfa.resources
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\bin\Debug\stajTakipV.1.1.exe.config
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\bin\Debug\stajTakipV.1.1.exe
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\bin\Debug\stajTakipV.1.1.pdb
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.csproj.AssemblyReference.cache
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.csproj.ResolveComReference.cache
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV._1._1.anasayfa.resources
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV._1._1.BasvuruFormu.resources
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV._1._1.StajyerGorevleri.resources
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV._1._1.Properties.Resources.resources
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.csproj.GenerateResource.cache
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.csproj.CoreCompileInputs.cache
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.csproj.CopyComplete
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.exe
+F:\hdd-1\hdd-2\1-Kişisel Dosyalar\VolkaN\YAZILIM folder\benim otosmasyonlarım\staj takip prograramı\stajTakipV.1.1\stajTakipV.1.1\obj\Debug\stajTakipV.1.1.pdb
